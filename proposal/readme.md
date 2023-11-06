@@ -52,29 +52,6 @@ Berikut adalah beberapa user story yang menggambarkan kebutuhan utama dari pengg
 Untuk mencapai tujuan di atas, kami akan menggunakan berbagai metode dan algoritma:
 
 - **Metode**
-  - Metode Agile : Pengembangan aplikasi shalat yuk ini menggunakan metode agile yang nantinya pengembangan akan berfokus kepada satu fitur terlebih dahulu, dan jika ada fitur yang memungkinkan untuk ditambahkan pada aplikasi maka bisa dikembangkan juga.
-  - mobile software development : Pengembangan aplikasi shalat yuk ini akan menggunakan Flutter karena aplikasi ini bertujuan untuk digunakan pada smartphone.
 
-
-- **Sensor**:
-  - Pengenalan Gerakan Shalat: Penggunaan sensor kamera smartphone untuk mengenali gerakan dalam shalat.
-
-- **Responder**:
-  - Speaker: untuk memberikan pengingat suara.
-  - Tampilan Visual: Menggunakan pengolahan gambar untuk menampilkan tampilan visual pada layar smartphone.
-  
-**Prototype**:
-https://www.canva.com/design/DAFx-0Vs7Y4/eLdXgYO0YV-ivXu0q1EaXg/edit?utm_content=DAFx-0Vs7Y4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
-**Deskripsi Teknologi**
-Pada tahap ini kita menjelaskan setiap teknologi hardware dan software yang digunakan dalam pembangunan sistem.
-Nantinya sistem mendeteksi seseorang ketetika sujud dan menghitung rakaat shalatnya
-
-Mesin Komputasi : Smartphone Android (Xiaomi Redmi 5 Plus), mengapa memmakai smartphone karena smartphone sudah dilengkapi banyak sensor dan juga mudah dibawa kemana-mana, salah satunya camera yang nantinya bisa mendeteksi gerakan shalat
-
-Software development : Flutter adalah kerangka pengembangan perangkat lunak open-source yang dikembangkan oleh Google. Ini digunakan untuk membuat aplikasi seluler, web, desktop, dan perangkat digital lainnya dengan menggunakan bahasa pemrograman Dart. framework ini nantinya membantu mwmbangun aplikasi shalat yuk!
-
-**Arsitektur Sistem**
-![image](https://github.com/zhenansky/pengingatrakaat/assets/63436760/bcc2f602-a97a-426a-bbfd-059332d38697)
 
 
