@@ -49,7 +49,7 @@ Berikut adalah beberapa user story yang menggambarkan kebutuhan utama dari pengg
 
 **Metode dan Algoritma**
 
-Untuk mencapai tujuan di atas, kami akan menggunakan berbagai metode dan algoritma:
+Untuk mencapai tujuan di atas, kami akan menggunakan berbagai metode dan algoritma: test
 
 - **Metode**
   - Metode Scrum
